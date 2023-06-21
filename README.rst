@@ -100,7 +100,7 @@ https://www.youtube.com/watch?v=e2WXgXEjbHY&list=PL5Up_u-XkWgNcunP_UrTJG_3EXgbK2
 
 Or if you prefer to read:
 
-From a \*nix terminal or Windows command prompt run::
+From a \*nix terminal or Windows command prompt run:
 
 .. code-block:: sh
 
